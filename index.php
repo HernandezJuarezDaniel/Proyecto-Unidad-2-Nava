@@ -10,7 +10,7 @@
 	<header>
 		<div class="wrapp">
 			<div class="logo">
-				<a href="#"><img src="img/logo.png" alt="logofut"></a>
+				<a href="#"><img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/football-logo-1047706.png" alt="logofut"></a>
 			</div>
 			<nav>
 				<ul>
